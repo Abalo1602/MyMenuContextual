@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMenuContextual</string>
+
+    <string name="action_nuevo">Nuevo</string>
+    <string name="action_actualizar">Actualizar</string>
+    <string name="action_eliminar">Eliminar</string>
+
+    <string name="action_nuevo_item">Nuevo item</string>
+    <string name="action_actualizar_item">Actualizar item</string>
+    <string name="action_eliminar_item">Eliminar item</string>
+
+    <string name="hello_world">Hello World!!!</string>
+
+</resources>
